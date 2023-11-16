@@ -13,25 +13,6 @@
   <properties>
    <junit.version>4.11</junit.version>
   </properties>
-  	
-  <developers>
-   <developer>
-	<id>balaji</id>
-	<name>Balaji Varanasi</name>
-	<email>balaji@inflinx.com</email>
-       <properties>
-          <active>true</active>
-       </properties>
-   </developer>
-   <developer>
-      <id>sudha</id>
-      <name>Sudha Belida</name>
-      <email>sudha@inflinx.com</email>
-      <properties>
-          <active>true</active>
-      </properties>
-   </developer>
- </developers>
   
  <dependencies>     
 	<dependency>       
